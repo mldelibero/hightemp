@@ -1,0 +1,4 @@
+All files for circuit boards should be housed in this directory.
+
+Currently,
+*sigGen --> Signal generation board in charge of housing the main power for the board and sending the signal to the capacitors.
