@@ -1,3 +1,0 @@
-elements-dir ./footprints
-schematics dataAcq.sch
-output-name lay
