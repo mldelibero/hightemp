@@ -1,7 +1,10 @@
 *.sym
 *.fp
-/symbols/*
-/footprint/*
+/symbols/
+/footprint/
 *~
 *-
 *.bak*
+*.cmd
+*.net
+*.new.*
