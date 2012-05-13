@@ -1,0 +1,3 @@
+This board takes the 4 signals from the power and pwm board and applies them to 4 buck circuits.
+
+The capacitor and resistor are off-board because the capatictor is in an oven.
